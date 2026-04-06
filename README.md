@@ -6,6 +6,9 @@ Dashboard de Análise de Veículos Usados - Aplicativo Web Interativo
 ## Explicação:
 Este projeto consiste no desenvolvimento de um aplicativo web interativo usando Streamlit para análise e visualização de dados de anúncios de vendas de carros usados. O objetivo é criar uma ferramenta que permita aos usuários explorar os dados de forma visual e interativa através de gráficos e controles dinâmicos.
 
+## 🌐 Aplicação Online
+**Acesse o dashboard:** https://projetosprint5-z2zj.onrender.com/
+
 Funcionalidades:
 Visualizações Interativas:
 
